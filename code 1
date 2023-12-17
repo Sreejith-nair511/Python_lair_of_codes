@@ -1,0 +1,17 @@
+Name=input('Enter the student name')
+Usn=input('Enter the Usn')
+m1=float(input('enter the marks of subject1'))
+m2=float(input('enter the marks of subject2'))
+m3=float(input('enter the marks of subject3'))
+total_marks=m1+m2+m3
+per=(total_marks/300)*100
+print('the marks of subject 1',m1)
+print('the marks of subject 1',m2)
+print('the marks of subject 1',m3)
+print(total_marks)
+print(per)
+if per>35:
+    print('student  passed')
+else:
+    print('student failed')
+    
