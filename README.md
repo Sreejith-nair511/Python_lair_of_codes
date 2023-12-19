@@ -4,6 +4,9 @@ all the variables are clearly defined
 and the out can be fetched easily 
 
 
+DETAIL EXPLANATION WITH  SCREENSHOT IN THE WIKI SECTION 
+
+
 this will also be your guide in accesing these code 
 
 code1:Student name,id and marks program 
