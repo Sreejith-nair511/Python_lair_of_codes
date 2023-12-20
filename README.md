@@ -12,3 +12,15 @@ this will also be your guide in accesing these code
 code1:Student name,id and marks program 
 
 code2:program to find out if citizen is senior or not 
+
+code3:program to bacup a zip file 
+
+code4:defining a parameter based DivExp programm
+
+code5:using statistics module in python to find mean,variance and etc 
+
+code6:multi variable console command usage in python 
+
+code 7:programm for factorial math function 
+
+code 8:programm for fibonnaci series 
