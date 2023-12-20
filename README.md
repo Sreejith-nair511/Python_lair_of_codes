@@ -21,6 +21,6 @@ code 5:using statistics module in python to find mean,variance and etc
 
 code 6:multi variable console command usage in python 
 
-code 7:programm for factorial math function 
+code 7:programm for fibonnaci series 
 
-code 8:programm for fibonnaci series 
+code 8:programm for factorial maths funtion 
