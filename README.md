@@ -9,17 +9,17 @@ DETAIL EXPLANATION WITH  SCREENSHOT IN THE WIKI SECTION
 
 this will also be your guide in accesing these code 
 
-code1:Student name,id and marks program 
+code 1:Student name,id and marks program 
 
-code2:program to find out if citizen is senior or not 
+code 2:program to find out if citizen is senior or not 
 
-code3:program to bacup a zip file 
+code 3:program to bacup a zip file 
 
-code4:defining a parameter based DivExp programm
+code 4:defining a parameter based DivExp programm
 
-code5:using statistics module in python to find mean,variance and etc 
+code 5:using statistics module in python to find mean,variance and etc 
 
-code6:multi variable console command usage in python 
+code 6:multi variable console command usage in python 
 
 code 7:programm for factorial math function 
 
